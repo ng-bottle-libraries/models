@@ -1,0 +1,4 @@
+mongoengine
+hg+http://bitbucket.org/mhallin/py-scrypt#egg=scrypt
+git+https://github.com/SamuelMarks/flask-scrypt#egg=Flask-Scrypt
+git+http://bitbucket.org/SamuelMarks/oauth2-rfc6749#egg=rfc6749
